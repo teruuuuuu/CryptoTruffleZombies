@@ -1,8 +1,8 @@
 # Crypto Truffle Zombies
 
 Solidity の学習用に truffle で開発環境を作成し、cryptozombies を写経して動作確認してみました。  
-[https://github.com/trufflesuite/truffle](truffle)  
-[https://cryptozombies.io/](cryptozombies)
+https://github.com/trufflesuite/truffle  
+https://cryptozombies.io/
 
 # Getting Started
 
