@@ -125,4 +125,4 @@ $ npm run dev
 ![showZombie](./image/showZombie.PNG)
 
 この時のトランザクション内容は Metamask にも表示されます。
-![metaMask](./image/MetaMask.PNG)
+![metaMask](./image/Metamask.PNG)
